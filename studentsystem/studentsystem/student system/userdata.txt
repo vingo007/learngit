@@ -1,0 +1,4 @@
+admin 1234 2 0
+aaa 000 2 1004
+vingo 8888 1 1003
+kaka abcde 1 1007

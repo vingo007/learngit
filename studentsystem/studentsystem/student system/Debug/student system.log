@@ -1,0 +1,80 @@
+﻿生成启动时间为 2017/9/12 15:43:49。
+     1>项目“F:\CPP\student system\student system\student system.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt func.c
+         func.c
+     1>f:\cpp\student system\student system\func.c(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>f:\cpp\student system\student system\func.c(36): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>f:\cpp\student system\student system\func.c(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>f:\cpp\student system\student system\func.c(68): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>f:\cpp\student system\student system\func.c(73): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>f:\cpp\student system\student system\func.c(78): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>f:\cpp\student system\student system\func.c(126): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\vs2012\vc\include\conio.h(131) : 参见“getch”的声明
+     1>f:\cpp\student system\student system\func.c(139): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\vs2012\vc\include\conio.h(131) : 参见“getch”的声明
+     1>f:\cpp\student system\student system\func.c(159): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\vs2012\vc\include\conio.h(131) : 参见“getch”的声明
+     1>f:\cpp\student system\student system\func.c(169): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\vs2012\vc\include\conio.h(131) : 参见“getch”的声明
+     1>f:\cpp\student system\student system\func.c(244): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(270): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(297): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(302): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(309): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(299) : 参见“setbuf”的声明
+     1>f:\cpp\student system\student system\func.c(311): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(320): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(299) : 参见“setbuf”的声明
+     1>f:\cpp\student system\student system\func.c(343): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(356): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>f:\cpp\student system\student system\func.c(378): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(390): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>f:\cpp\student system\student system\func.c(423): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(428): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(437): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>f:\cpp\student system\student system\func.c(492): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(505): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>f:\cpp\student system\student system\func.c(532): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(537): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(542): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>f:\cpp\student system\student system\func.c(543): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>f:\cpp\student system\student system\func.c(546): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>f:\cpp\student system\student system\func.c(579): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\cpp\student system\student system\func.c(595): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+       Link:
+         E:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CPP\student system\Debug\student system.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\CPP\student system\Debug\student system.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CPP\student system\Debug\student system.lib" /MACHINE:X86 Debug\func.obj
+         Debug\main.obj
+         student system.vcxproj -> F:\CPP\student system\Debug\student system.exe
+     1>已完成生成项目“F:\CPP\student system\student system\student system.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.64
